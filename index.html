@@ -31,7 +31,7 @@
 		}
 
 		h1 {
-			font-size: 4em;
+			font-size: 2em;
 			font-family: 'Dancing Script', cursive;
 			color: #333333;
 		}
@@ -109,7 +109,7 @@
 <body>
 	<section>
 		<!--The title shown on the page-->
-		<h1>Capital of the Bluegrass</h1>
+		<h1>Red River Gorge Welcome Center</h1>
 
 		<!-- The map -->
 		<div id='map'></div>
@@ -120,7 +120,10 @@
 		<!-- Metadata about the project -->
 		<p>Add additional information about this place and inspire visitors to visit and desire to understand its geography. Did you know that some of my favorite places to visit in the city are ice cream shops! </p>
 		<p>Use images:
-			<img src="#">
+			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Red_River_Gorge_-_Motherlode_-_Convicted_1.jpg/640px-Red_River_Gorge_-_Motherlode_-_Convicted_1.jpg">
+		</p>
+		<p>
+			<a href="http://www.wikiwand.com/en/Red_River_Gorge">Photo credit</a>
 		</p>
 		<p>and
 			<a href="#">links</a> to other resources to inform your visitor.</p>
@@ -147,12 +150,12 @@
 
 		// Define a variable that centers the intial view and zoom level. 
 		var options = {
-			center: [38.0406, -84.5037], // lat, long values of Gladie Visitor center
-			zoom: 12 // Integer value. Higher value greater the scale.
+			center: [37.833668,-83.6106637], // lat, long values of Gladie Visitor center
+			zoom: 14 // Integer value. Higher value greater the scale.
 		}
 
 		// write a custom message for the Leaflet tooltip
-		var message = 'Lexington is awesome!';
+		var message = 'RRG is awesome!';
 
 		// ------------------------------------------------------ 
 		// Below are parameters you can learn to manipulate in GEO 405 and GEO 672.
