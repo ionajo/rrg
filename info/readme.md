@@ -7,7 +7,7 @@ The Red River Gorge is located in the Daniel Boone National Forest and Menifee, 
 1. It is a [National Geological Area](https://www.fs.usda.gov/detail/dbnf/specialplaces/?cid=stelprdb5345319)
 2. It is a [National Natural Landmark](https://www.nps.gov/subjects/nnlandmarks/site.htm?Site=RERI-KY)
 
-![BPreview of large map](graphics/USFS_map_preview.jpg)
+![Preview of large map](graphics/USFS_map_preview.jpg)    
 [Download PDF map](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5364326.pdf)
 
 ![Become Happiness](graphics/USFS_vicinity_map.png)
