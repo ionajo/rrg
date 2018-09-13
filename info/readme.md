@@ -1,18 +1,18 @@
-# My page title
+# Welcome to the Red River Gorge
 
-Welocome to my page. I will discuss interesting topics that might make you happy. 😃
+The Red River Gorge is located in the Daniel Boone National Forest and Menifee, Wolfe, and Powell Counties in eastern Kentucky. Visitors commonly refer to the area as "The Gorge" and is famous for its stunning cliffs and geological formations. 
 
-## Some interesting facts here
+## Facts about the Gorge
 
-1. This is that
-2. That is this
-3. Mmmm ... this is crazy!
+1. It is a [National Geological Area](https://www.fs.usda.gov/detail/dbnf/specialplaces/?cid=stelprdb5345319)
+2. It is a [National Natural Landmark](https://www.nps.gov/subjects/nnlandmarks/site.htm?Site=RERI-KY)
 
-[My map of happiness](https://ourworldindata.org/grapher/happiness-cantril-ladder)
+![BPreview of large map](graphics/USFS_map_preview.jpg)
+[Download PDF map](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5364326.pdf)
 
-![Become Happiness](https://imgs.xkcd.com/comics/focus_knob.png)
+![Become Happiness](graphics/USFS_vicinity_map.png)
 
-<!-- This is a comment. The above line grabs a JPG from a URL and will display it as an image. The "Become Happy" text inside the brackets is called an Alt property and is used in case the image is corrupted or for browsers that don't display images (they exist). -->
 
-### Sources
-1. Https://...
+
+### Map source
+1. [US Forest Service, Daniel Boone NF](https://www.fs.usda.gov/detail/dbnf/specialplaces/?cid=stelprdb5345319)
