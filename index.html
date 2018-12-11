@@ -25,7 +25,7 @@
 			color: #979797;
 			font-size: 1.0em;
 			font-weight: 300;
-			line-height: 1.05em;
+			line-height: 1.6em;
 		}
 
 		section {
@@ -35,13 +35,14 @@
 		}
 
 		h1 {
-			font-size: 2em;
+			font-size: 4em;
+			line-height: 1em;
 			font-family: 'Dancing Script', cursive;
 			color: #333333;
 		}
 
 		h2 {
-			font-size: 2em;
+			font-size: 3em;
 			font-family: 'Signika Negative', sans-serif;
 			letter-spacing: .05em;
 			font-weight: 300;
@@ -50,7 +51,7 @@
 		}
 
 		h3 {
-			font-size: 1.5em;
+			font-size: 2em;
 			font-family: 'Dancing Script', cursive;
 			letter-spacing: .04em;
 			color: #888888;
@@ -58,8 +59,8 @@
 
 
 		p {
-			font-size: 1.1em;
-			line-height: 1.4em;
+			font-size: 1.5em;
+			line-height: 1.6em;
 		}
 
 		a {
@@ -122,30 +123,32 @@
 		<h2>WELCOME</h2>
 
 		<!-- Metadata about the project -->
-		<p>The Red River Gorge awaits, my fellow trail wanderer! Find impressive cliffs and sweet overlooks in the heart of Kentucky. Visit the <a href="https://www.fs.usda.gov/detail/dbnf/specialplaces/?cid=stelprdb5278890">Gladie Visitor Center</a> to start your adventure! </p>
-		<p>Where is the Red River Gorge? </p>
+		<p><img src="images/rrg.png" alt="Vicinity Map of the Red River Gorge" title="Vicinity Map of the Red River Gorge" style="float: right; width: 300px;margin:0 10px -5px 0;"> The <a href="https://www.fs.usda.gov/detail/dbnf/maps-pubs/?cid=stelprdb5345319">Red River Gorge</a> awaits, my fellow trail wanderer! Find impressive cliffs and sweet overlooks in the heart of Kentucky. Visit the <a href="https://www.fs.usda.gov/detail/dbnf/specialplaces/?cid=stelprdb5278890">Gladie Visitor Center</a> to start your adventure! </p>
+
+		<h3>Grays Arch, a special place to visit</h3>
+
+		<p><a href="graysarch"><img src="https://uky-gis.github.io/maps/us-arches/arches.svg" style="float: left; width:80px;margin:0 10px -5px 0;"></a>Visit <a href="graysarch">Grays Arch</a>, a sandstone arch over 80 feet in height. The arch is managed by the <a href="https://www.fs.usda.gov/detail/dbnf/about-forest/districts/?cid=stelprdb5296143">Cumberland Ranger District</a> in the Daniel Boone National Forest. The project is part of the GEO 409 coursework in the Department of Geography at the University of Kentucky. The course used ArcGIS Pro and Python scripting to process and analyze spatial data.</p>
 		
-		<img src="info/graphics/USFS_vicinity_map.png" alt="Vicinity Map of the Red River Gorge" title="Vicinity Map of the Red River Gorge" width="100%"> 
-		<p>
-			<a href="https://www.fs.usda.gov/detail/dbnf/maps-pubs/?cid=stelprdb5345319">Map Source</a>
-		</p>
-		<h3>A Scenic Photograph</h3>
+		
+		<a data-flickr-embed="true" data-vr="true"  href="https://www.flickr.com/photos/28640579@N02/36328058093/in/photolist-XmbN2c-XmbNFZ-XmbMcB-VdDmHX-NR7H6d-PevSWD-PevQRB-PpyS5g-PmnDfj-PevM8K-NR7Dhb-PevKWX-Wsb4Pa-Hc8h5h-Hyv9MC" title="Gray&#x27;s Arch"><img src="https://farm5.staticflickr.com/4368/36328058093_67499d076b_h.jpg" width="100%" height="800" alt="Gray&#x27;s Arch"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+		<div class="linkbox">A 360 Photograph of Grays Arch (photograph by UK Geography)</div>
+		
+		<h3>Geospatial PDF of Arches</h3>
+		<a href="basemap/rrg.pdf"><img src="images/rrg.jpg" alt="Geospatial PDF of Arches" title="Geospatial PDF of Arches" style="width: 100%;"><br>
+			Download and use this map on your mobile device</a>
+		
+		
+		<h3>A scenic destination</h3>
 		 <img src="https://uky-gis.github.io/maps/us-arches/photos/don_juan_garden.jpg" alt="Don Juan Garden" width="100%">
-		 <div class="linkbox">Don Juan's Garden (photograph by UK Geography)</div>
-		 <p>
-			<a href="https://uky-gis.github.io/maps/us-arches/full">Link to map of US named arches (data from US GNIS)</a>
-		</p>
-
-		<p>
-			<a href="https://www.fs.fed.us/ivm/index.html">Interactive map</a> of US Forest Service recreation areas.
-		</p>
-
+		 <div class="linkbox">Plenty in the Red River Gorge! Visit Don Juan's Garden (photograph by UK Geography)</div>
+		
 		<!-- More info about you -->
 		<hr>
-		<h3>More about Me!</h3>
+		<h3>More information</h3>
 		<ul>
-			<li>See my projects on GitHub:
-				<a href="https://github.com/tastyfreeze">@tastyfreeze</a> 
+			<li><a href="https://geography.as.uky.edu/">UKy Geography</a> Department</li>
+			<li><a href="https://uky-gis.github.io/">Geography</a> Department’s GIS and mapping page</li>
+			<li><a href="https://www.fs.fed.us/ivm/index.html">Interactive map</a> of US Forest Service recreation areas.
 			</li>
 		</ul>
 	</section>
@@ -160,11 +163,8 @@
 		// Define a variable that centers the intial view and zoom level. 
 		var options = {
 			center: [37.833668,-83.6106637], // lat, long values of Gladie Visitor center
-			zoom: 14 // Integer value. Higher value greater the scale.
+			zoom: 15// Integer value. Higher value greater the scale.
 		}
-
-		// write a custom message for the Leaflet tooltip
-		var message = 'RRG is awesome!';
 
 		// ------------------------------------------------------ 
 		// Below are parameters you can learn to manipulate in GEO 405 and GEO 672.
@@ -181,9 +181,9 @@
 
 		// add a marker to the center of the map and open the tooltip
 		L.marker(map.getCenter())
-			.bindTooltip(message)
+			.bindTooltip('Red River Gorge is awesome!')
 			.addTo(map)
-			.openTooltip();
+			.openTooltip()
 	</script>
 
 </body>

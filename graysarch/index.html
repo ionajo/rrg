@@ -166,6 +166,9 @@
           trailhead. The hike descends nearly 200 vertical feet with three flights of wooden stairs. Photographers
           rarely miss the inspiring view here of massive boulders and overhanging cliffs.</p>
         <p>
+          <p>
+              If you zoom the map above, you'll discover 718 named arches in the U.S. Board on Geographic Names. A cluster of arches exists in eastern Kentucky, but most arches exist in the west. The average elevation for an arch is 3,947 feet above sea level. The five most common names for an arch are 'Natural Arch', 'Natural Bridge', 'Window Rock', 'Arch Rock', and 'The Arch.'
+          </p>
           <hr>
           <h3>Print map for this location</h3>
 
@@ -173,23 +176,26 @@
           <div class="linkbox"><a href="https://www.flickr.com/photos/28640579@N02/44871763315/in/album-72157668647475382/"
               title="Cliffs over 40-feet high around Grays Arch">Cliffs over 40-feet high around Grays Arch</a></div>
 
-        <iframe src="https://player.vimeo.com/video/301604841" width="100%" height="360" frameborder="0"
-          webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-        <p class="linkbox">Learn how to work with lidar point clouds</p>
+        
 
         <h3>Data sources and methods</h3>
         <p>The primary sources of data for map and video creation include:</p>
         <ul>
           <li>Lidar point cloud data from the <a href="http://kygeonet.maps.arcgis.com/home/webmap/viewer.html?webmap=b5ff91df6309491090c20333c8f58f52">KyFromAbove</a></li>
           <li>2016 NAIP aerial color photography from USGS <a href="https://earthexplorer.usgs.gov/">EarthExplorer</a></li>
+          <li>GNIS Database of places names from the <a href="https://geonames.usgs.gov/domestic/download_data.htm">U.S. Board on Geographic Names</a></li>
           <li>Site visits to arch with handheld camera</li>
         </ul>
 
-        <p>The lidar data was processed in ArcGIS Pro to produce a bare-earth DEM. Focal statistic function was used on this DEM to estimate cliff heights and to help produce elevation contours. For the 3D animation, a lidar point cloud was colorized by the aerial image, filtered to include above-ground points, and added to a scene for animation. </p>
+        <p>The lidar data was processed in ArcGIS Pro to produce a bare-earth DEM. Focal statistic function was used on this DEM to estimate cliff heights and to help produce elevation contours. For the 3D animation, a lidar point cloud was colorized by the aerial image, filtered to include above-ground points, and added to a scene for animation. Python was used to help with data processing and analysis.</p>
 
         <p>
           This project is part of the Department of Geography, University of Kentucky course GEO 409, Fall 2018.
         </p>
+
+        <iframe src="https://player.vimeo.com/video/301604841" width="100%" height="360" frameborder="0"
+          webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        <p class="linkbox">Learn how to work with lidar point clouds</p>
 
         <img class="max-image-width" src="https://www.outragegis.com/pixel/galleries/121224_RRG/Gray_s%20Arch.jpg" alt="Winter photograph of arch">
         <p class="linkbox">Winter photograph of arch</p>
