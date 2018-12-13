@@ -6,6 +6,8 @@ Kentucky's Red River Gorge National Geological Area
 
 ![Grays Arch, Kentucky](images/grays_arch.png)
 
+*(Source: lab 9)*
+
 ### Summary information 
 
 The Red River Gorge is located in the Daniel Boone National Forest and Menifee, Wolfe, and Powell Counties in eastern Kentucky. Visitors commonly refer to the area as "The Gorge" and is famous for its stunning cliffs and geological formations. 
@@ -51,3 +53,4 @@ Overlook on near trail to Grays Arch
 ![Little hiking boots on the trail to Grays Arch](https://farm5.staticflickr.com/4900/45662786972_45583164cf_b.jpg)   Little hiking boots on the trail to Grays Arch
 
 *(Source: five photographs made in lab 5)*
+
