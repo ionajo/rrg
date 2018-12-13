@@ -6,7 +6,7 @@ Kentucky's Red River Gorge National Geological Area
 
 ![Grays Arch, Kentucky](images/grays_arch.png)
 
-### Summary information (Labs 1, 5, and 9)
+### Summary information 
 
 The Red River Gorge is located in the Daniel Boone National Forest and Menifee, Wolfe, and Powell Counties in eastern Kentucky. Visitors commonly refer to the area as "The Gorge" and is famous for its stunning cliffs and geological formations. 
 
@@ -14,24 +14,27 @@ Grays Arch is a sandstone arch in the <a href="/indexl.html">Red River Gorge</a>
 
 The area is accessible by a well-maintained foot trail that is roughly 1.4 miles from a parking lot trailhead. The hike descends nearly 200 vertical feet with three flights of wooden stairs. Photographers rarely miss the inspiring view here of massive boulders and overhanging cliffs.
 
+*(Source: three paragraphs developed in labs 1, 5, and 9)*
 
 
-### Bird's-eye view animations (lab 7)
+### Bird's-eye view animations
 
 * [25-second video](https://vimeo.com/305794462)
 * [45-second video](https://vimeo.com/301604841)
 
+*(Source: one video made in lab 7)*
+
 ### Maps 
 
-* [Base map of popular Red River Gorge arches](basemaps/rrg.pdf) (lab 5)
-* [Cliffs over 40 feet](https://www.flickr.com/photos/28640579@N02/44871763315/in/album-72157668647475382/) (lab 7)
+* [Base map of popular Red River Gorge arches](basemaps/rrg.pdf) *(lab 5)*
+* [Cliffs over 40 feet](https://www.flickr.com/photos/28640579@N02/44871763315/in/album-72157668647475382/) *(lab 7)*
 
 ### Web pages 
 
-* [Welcome to the Red River Gorge](https://tastyfreeze.github.io/rrg/) (lab 1)
-* [Explore Grays Arch](https://tastyfreeze.github.io/rrg/graysarch/) (lab 8)
+* [Welcome to the Red River Gorge](https://tastyfreeze.github.io/rrg/) *(lab 1)*
+* [Explore Grays Arch](https://tastyfreeze.github.io/rrg/graysarch/) *(lab 8)*
 
-### Photographs (lab 5)
+### Photographs
 
 ![Trail overlook of Grays Arch](https://farm5.staticflickr.com/4813/45662776342_89eba8446e_h.jpg)    
 Trail overlook of Grays Arch
@@ -46,3 +49,5 @@ Grays Arch with John underneath
 Overlook on near trail to Grays Arch
 
 ![Little hiking boots on the trail to Grays Arch](https://farm5.staticflickr.com/4900/45662786972_45583164cf_b.jpg)   Little hiking boots on the trail to Grays Arch
+
+*(Source: five photographs made in lab 5)*
