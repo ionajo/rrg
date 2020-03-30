@@ -2,6 +2,15 @@
 
 Kentucky's Red River Gorge National Geological Area
 
+## A Base map of arches
+
+[A Base map of arches](basemap/rrg.pdf)
+
+
+<!-- # rrg
+
+Kentucky's Red River Gorge National Geological Area
+
 ## A project that explores Grays Arch
 
 ![Grays Arch, Kentucky](images/grays_arch.png)
@@ -53,4 +62,4 @@ Overlook on near trail to Grays Arch
 ![Little hiking boots on the trail to Grays Arch](https://farm5.staticflickr.com/4900/45662786972_45583164cf_b.jpg)   Little hiking boots on the trail to Grays Arch
 
 *(Source: five photographs made in lab 5)*
-
+ -->
