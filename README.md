@@ -1,10 +1,24 @@
-# rrg
+# Red River Gorge
 
 Kentucky's Red River Gorge National Geological Area
 
-## A Base map of arches
+## A ase map of arches in the region
 
-[A Base map of arches](basemap/rrg.pdf)
+[Download a GeoPDF of arches](basemap/rrg.pdf)
+
+## Photographs of Natural Bridge
+
+![On top of Natural Bridge after rainstorm](https://farm2.staticflickr.com/1901/44221426354_d8a711a753_h.jpg)   
+*On top of Natural Bridge after rainstorm*, photo by Boyd S
+
+![Below Natural Bridge](https://farm2.staticflickr.com/1959/43128931410_daceab6096_h.jpg)    *Below Natural Bridge*, photo by Boyd S
+
+![Staircase to ridge top trail](https://farm2.staticflickr.com/1922/43128933340_d6d61a6bb2_h.jpg)   
+*Staircase to ridge top trail near Natural Bridge*, photo by Boyd S
+
+![Natural Bridge from neighboring ridge](https://farm2.staticflickr.com/1978/44221432854_c4570602c1_h.jpg )   
+*Natural Bridge from neighboring ridge*, photo by Boyd S
+
 
 
 <!-- # rrg
