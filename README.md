@@ -1,5 +1,7 @@
 # Red River Gorge
 
+# DO NOT VISIT THE RRG UNTIL BAN IS LIFTED
+
 Kentucky's Red River Gorge National Geological Area
 
 ## A ase map of arches in the region
