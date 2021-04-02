@@ -2,7 +2,7 @@
 
 Kentucky's Red River Gorge National Geological Area
 
-## A ase map of arches in the region
+## A base map of arches in the region
 
 [Download a GeoPDF of arches](basemap/rrg.pdf)
 
